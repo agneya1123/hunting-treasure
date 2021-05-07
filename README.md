@@ -1,0 +1,2 @@
+# hunting-treasure
+treasure
